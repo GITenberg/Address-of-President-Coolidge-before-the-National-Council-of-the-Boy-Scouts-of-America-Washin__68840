@@ -1,0 +1,37 @@
+_repo: Address-of-President-Coolidge-before-the-National-Council-of-the-Boy-Scouts-of-America-Washin__68840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coolidge, Calvin
+    aliases:
+    - United States President (1923-1929)
+    - Coolidge, John Calvin
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '1661'
+    url: http://www.gutenberg.org/2009/agents/1661
+    wikipedia: https://en.wikipedia.org/wiki/Calvin_Coolidge
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68840'
+  lccn: '26026607'
+language: en
+pgterms:marc904: https://archive.org/details/addressofpreside00cool
+pgterms:marc905: 20220818124610coolidge
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Government Printing Office,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts'
+- !lcc 'HS'
+- GITenberg
+title: "Address of President Coolidge before the National Council of the Boy Scouts\
+  \ of America\r\nWashington, D. C., May 1, 1926"
+url: http://www.gutenberg.org/ebooks/68840
