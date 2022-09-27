@@ -1,5 +1,8 @@
 _repo: Address-of-President-Coolidge-before-the-National-Council-of-the-Boy-Scouts-of-America-Washin__68840
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68840-h/images/cover.jpg
 creator:
   author:
     agent_name: Coolidge, Calvin
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1661
     wikipedia: https://en.wikipedia.org/wiki/Calvin_Coolidge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68840#Address-of-President-Coolidge-before-the-National-Council-of-the-Boy-Scouts-of-America-Washin_
 gutenberg_issued: '2022-08-26'
 identifiers:
   gutenberg: '68840'
